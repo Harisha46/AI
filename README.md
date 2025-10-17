@@ -1,2 +1,0 @@
-# AI
-my lab
